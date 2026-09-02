@@ -68,7 +68,6 @@ export const skills = [
   { name: 'Vite', icon: SiVite, color: '#646CFF' },
   { name: 'HTML5', icon: SiHtml5, color: '#E34F26' },
   { name: 'CSS3', icon: DiCss3Full, color: '#1572B6' },
-  { name: 'Tailwind CSS', icon: SiTailwindcss, color: '#06B6D4' },
   { name: 'Spring Boot', icon: SiSpringboot, color: '#6DB33F' },
   { name: 'SQL', icon: SiPostgresql, color: '#4169E1' },
   { name: 'MySQL', icon: SiMysql, color: '#4479A1' },
