@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion'
-import { FaGithub, FaExternalLinkAlt, FaCheckCircle } from 'react-icons/fa'
+import { FaGithub, FaCheckCircle } from 'react-icons/fa'
 import ScrollReveal from '../components/ScrollReveal'
 import SectionHeading from '../components/SectionHeading'
 import { projects } from '../data/content'
@@ -66,14 +66,6 @@ export default function Projects() {
                       className="btn-ghost text-sm"
                     >
                       <FaGithub /> GitHub
-                    </a>
-                    <a
-                      href={project.demo}
-                      target="_blank"
-                      rel="noreferrer"
-                      className="btn-primary text-sm"
-                    >
-                      <FaExternalLinkAlt /> Live Demo
                     </a>
                   </div>
                 </div>

@@ -136,7 +136,6 @@ export const projects = [
       'Automated topic clustering',
     ],
     github: 'https://github.com/ponshivavel/pyspark',
-    demo: 'https://trends.demo.example',
   },
   {
     title: 'Heart Disease Prediction System',
@@ -191,6 +190,12 @@ export const certifications = [
     year: '2026',
     credentialId: 'AWS-CPF-2026',
   },
+  {
+  title: 'AI Fluency: Framework & Foundations',
+  issuer: 'Anthropic',
+  year: '2026',
+  credentialId: 'ANTHROPIC-AI-FLUENCY-2026',
+},
 ]
 
 export const achievements = [
